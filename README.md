@@ -1,6 +1,6 @@
-# 5 day forecast
+# 5 days forecast
 
-"Build a single HTML page displaying the 5 day weather forecast"
+"Build a single HTML page displaying the 5 days weather forecast"
 
 ## Technology stack
 
