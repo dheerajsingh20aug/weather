@@ -1,4 +1,4 @@
-# 5 days forecast
+# 5 days weather forecast
 
 "Build a single HTML page displaying the 5 days weather forecast"
 
