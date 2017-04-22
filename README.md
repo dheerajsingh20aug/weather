@@ -21,3 +21,6 @@ npm start
 This will start up the app.
 Navigate to http://localhost:9002
 
+## Sample output
+
+https://github.com/dheerajsingh20aug/weather/blob/master/Demo.png 
