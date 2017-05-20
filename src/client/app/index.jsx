@@ -8,7 +8,7 @@ class App extends React.Component {
 		    <div className="element">
 			  <div className="col-sm-4"></div>
 			  <div className="col-sm-4">
-			  	<h2>5 day weather forecast</h2>
+			  	<h2>5 days weather forecast</h2>
 			  	<WeatherComponent />
 			  </div>
 			  <div className="col-sm-4"></div>
